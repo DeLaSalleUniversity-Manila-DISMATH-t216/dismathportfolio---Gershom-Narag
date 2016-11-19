@@ -79,3 +79,14 @@
 
 -and finally there is proof by cases, where we prove that the possible cases for an arugment are true to prove the argument itself.
 
+##Week 6
+
+ - This week we learned about functions
+
+ - a function is where one element from a set A is mapped to exactly one element in set B
+
+ - set A is called the domain; set B is called the co-domain
+
+ - we learned about algorithms as well
+
+ - an algorithm is a process for performing a certain action, such as ordering a set of values
